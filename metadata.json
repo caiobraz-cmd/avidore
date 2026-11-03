@@ -1,0 +1,6 @@
+{
+  "name": "AVIDORE · Laboratório Olfativo",
+  "description": "Laboratório olfativo e cosmético no Paraná (Astorga, Maringá e Londrina). Coleções olfativas, cuidados pessoais, marketing olfativo para clínicas e empresas, e presentes corporativos personalizados. Sinta antes de escolher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
